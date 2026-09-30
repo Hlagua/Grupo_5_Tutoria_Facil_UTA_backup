@@ -79,7 +79,7 @@ Grupo_5_Tutoria_Facil_UTA/
 
 | Integrante | Issue Asignado | Rama Feature | Commits Clave | Pull Request (PR) | Revisor Cruzado |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **Alison Cobos** | [#1](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/1) | `feature/alison-dcu-requisitos` | `feat(dcu): ...`<br/>`feat(journey): ...` | [#1](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/1) | Henry Lagua |
-| **Melany Cevallos** | [#2](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/2) | `feature/melany-ui-prototipo` | `feat(ui): ...`<br/>`feat(styleguide): ...` | [#2](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/2) | Carlos Ramos |
-| **Carlos Ramos** | [#3](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/3) | `feature/carlos-evaluacion-iteracion` | `test(qa): ...`<br/>`test(iteracion): ...` | [#3](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/3) | Melany Cevallos |
-| **Henry Lagua** | [#4](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/4) | `feature/henry-ihc-accesibilidad` | `feat(ihc): ...`<br/>`fix(core): ...` | [#4](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/4) | Alison Cobos |
+| **Alison Cobos** | [#1 (Cerrado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/1) | `feature/alison-dcu-requisitos` | `feat(dcu): ...`<br/>`feat(journey): ...` | [#5 (Mergeado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/5) | Henry Lagua (@Hlagua) |
+| **Melany Cevallos** | [#2 (Cerrado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/2) | `feature/melany-ui-prototipo` | `feat(ui): ...`<br/>`feat(styleguide): ...` | [#7 (Mergeado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/7) | Carlos Ramos (@carlitosgiovanniramos) |
+| **Carlos Ramos** | [#3 (Cerrado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/3) | `feature/carlos-evaluacion-iteracion` | `test(qa): ...`<br/>`test(iteracion): ...` | [#8 (Mergeado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/8) | Melany Cevallos (@SalyC15) |
+| **Henry Lagua** | [#4 (Cerrado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/issues/4) | `feature/henry-ihc-accesibilidad` | `feat(ihc): ...`<br/>`fix(core): ...` | [#6 (Mergeado)](https://github.com/Hlagua/Grupo_5_Tutoria_Facil_UTA/pull/6) | Alison Cobos (@Itsuna18) |
